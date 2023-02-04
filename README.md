@@ -51,5 +51,5 @@ I want to continue learning react. I have a plan to learn react routing so i can
 ## Author
 
 - Frontend Mentor - @Abuu998
-- Twitter - @abuu998
+- Twitter - https://twitter.com/abuu998
 
