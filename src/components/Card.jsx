@@ -51,7 +51,7 @@ export default function Card({title, daily, weekly, monthly}) {
                 </div>
                 <div className="card-part-btm crd">
                     <p className="hours">{`${daily.current}hrs`}</p>
-                    <p className="previous">{`Yesterday - ${daily.previous}hrs`}</p>
+                    <p className="previous">{`${daily.term} - ${daily.previous}hrs`}</p>
                 </div>
             </div>
         </div>

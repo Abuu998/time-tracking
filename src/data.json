@@ -4,15 +4,18 @@
     "timeframes": {
       "daily": {
         "current": 5,
-        "previous": 7
+        "previous": 7,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 32,
-        "previous": 36
+        "previous": 36,
+        "term": "Last week"
       },
       "monthly": {
         "current": 103,
-        "previous": 128
+        "previous": 128,
+        "term": "Last month"
       }
     }
   },
@@ -21,15 +24,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 2
+        "previous": 2,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 10,
-        "previous": 8
+        "previous": 8,
+        "term": "Last week"
       },
       "monthly": {
         "current": 23,
-        "previous": 29
+        "previous": 29,
+        "term": "Last month"
       }
     }
   },
@@ -38,15 +44,18 @@
     "timeframes": {
       "daily": {
         "current": 0,
-        "previous": 1
+        "previous": 1,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 4,
-        "previous": 7
+        "previous": 7,
+        "term": "Last week"
       },
       "monthly": {
         "current": 13,
-        "previous": 19
+        "previous": 19,
+        "term": "Last month"
       }
     }
   },
@@ -55,15 +64,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 1
+        "previous": 1,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 4,
-        "previous": 5
+        "previous": 5,
+        "term": "Last week"
       },
       "monthly": {
         "current": 11,
-        "previous": 18
+        "previous": 18,
+        "term": "Last month"
       }
     }
   },
@@ -72,15 +84,18 @@
     "timeframes": {
       "daily": {
         "current": 1,
-        "previous": 3
+        "previous": 3,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 5,
-        "previous": 10
+        "previous": 10,
+        "term": "Last week"
       },
       "monthly": {
         "current": 21,
-        "previous": 23
+        "previous": 23,
+        "term": "Last month"
       }
     }
   },
@@ -89,15 +104,18 @@
     "timeframes": {
       "daily": {
         "current": 0,
-        "previous": 1
+        "previous": 1,
+        "term": "Yesterday"
       },
       "weekly": {
         "current": 2,
-        "previous": 2
+        "previous": 2,
+        "term": "Last week"
       },
       "monthly": {
         "current": 7,
-        "previous": 11
+        "previous": 11,
+        "term": "Last month"
       }
     }
   }
